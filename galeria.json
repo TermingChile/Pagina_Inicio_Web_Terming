@@ -1,29 +1,120 @@
 {
-  "categorias": [
-    {
-      "nombre": "Piping Industrial",
-      "imagenes": [
-        {
-          "titulo": "Instalación de tuberías en faena minera",
-          "descripcion": "Sistema de piping ASME B31.3 para transporte de fluidos",
-          "url": "#URL_IMAGEN_1"
-        },
-        {
-          "titulo": "Soldadura de tubería de acero",
-          "descripcion": "Unión soldada con estándares AWS",
-          "url": "#URL_IMAGEN_2"
-        }
-      ]
-    },
-    {
-      "nombre": "Electricidad Industrial",
-      "imagenes": [
-        {
-          "titulo": "Tablero eléctrico de alta tensión",
-          "descripcion": "Instalación y certificación eléctrica",
-          "url": "#URL_IMAGEN_3"
-        }
-      ]
+  "hero": {
+    "titulo": "Ingeniería y <span>Montajes Industriales</span> de Alta Precisión",
+    "descripcion": "Somos el socio técnico en quien las grandes empresas confían para sus proyectos de piping, electricidad, soldadura HDPE y montaje estructural en la III y IV región.",
+    "imagen": "https://drive.google.com/uc?export=view&id=ID_DE_IMAGEN_HERO",
+    "botones": [
+      {
+        "texto": "Conoce Nuestros Servicios",
+        "url": "#servicios",
+        "primario": true
+      },
+      {
+        "texto": "Descarga Nuestro RIOHS",
+        "url": "https://drive.google.com/file/d/10P0298kpgtc5gbnjSPSUHMWHUgUuXYy8/view?usp=drive_link",
+        "primario": false
+      }
+    ]
+  },
+  "servicios": {
+    "descripcion": "Soluciones integrales para la industria minera y manufacturera del norte de Chile.",
+    "lista": [
+      {
+        "icono": "⚙️",
+        "titulo": "Piping Industrial",
+        "descripcion": "Sistemas de conducción de fluidos bajo estándares ASME B31.3. Instalación, mantención y certificación.",
+        "tag": "ASME · AWS"
+      },
+      {
+        "icono": "⚡",
+        "titulo": "Electricidad Industrial",
+        "descripcion": "Instalaciones eléctricas, tableros de alta tensión, certificación y mantenimiento preventivo.",
+        "tag": "Alta Tensión"
+      },
+      {
+        "icono": "🔥",
+        "titulo": "Soldadura HDPE",
+        "descripcion": "Termofusión de polietileno de alta densidad para redes de fluidos. Sin filtraciones, sin fallas.",
+        "tag": "Termofusión"
+      },
+      {
+        "icono": "🏗️",
+        "titulo": "Montaje Estructural",
+        "descripcion": "Construcción y montaje de estructuras metálicas, equipos y maquinaria pesada para la industria.",
+        "tag": "Estructuras"
+      }
+    ]
+  },
+  "mvv": {
+    "descripcion": "Nuestra razón de ser y hacia dónde vamos como empresa.",
+    "items": [
+      {
+        "icono": "🎯",
+        "titulo": "Misión",
+        "descripcion": "Entregar soluciones de ingeniería y montaje de alta calidad, garantizando seguridad, precisión y confianza en cada proyecto."
+      },
+      {
+        "icono": "🌟",
+        "titulo": "Visión",
+        "descripcion": "Ser el socio técnico preferido de la industria del norte de Chile, reconocidos por nuestra excelencia y compromiso con la seguridad."
+      },
+      {
+        "icono": "💎",
+        "titulo": "Valores",
+        "descripcion": "Seguridad ante todo · Excelencia y rigor técnico · Integridad y transparencia · Respeto por las personas y el medio ambiente."
+      }
+    ]
+  },
+  "cifras": [
+    { "numero": "5+", "etiqueta": "km de tubería instalada" },
+    { "numero": "0", "etiqueta": "accidentes reportados" },
+    { "numero": "500+", "etiqueta": "m³ de estructuras montadas" },
+    { "numero": "24/7", "etiqueta": "respuesta en terreno" }
+  ],
+  "galeria": {
+    "descripcion": "Imágenes de nuestros trabajos en faena, actualizadas desde nuestro Drive.",
+    "imagenes": [
+      {
+        "url": "https://drive.google.com/uc?export=view&id=ID_IMAGEN_1",
+        "titulo": "Instalación de piping en faena minera",
+        "descripcion": "Sistema de piping ASME B31.3 para transporte de fluidos."
+      },
+      {
+        "url": "https://drive.google.com/uc?export=view&id=ID_IMAGEN_2",
+        "titulo": "Soldadura de tubería de acero",
+        "descripcion": "Unión soldada con estándares AWS."
+      },
+      {
+        "url": "https://drive.google.com/uc?export=view&id=ID_IMAGEN_3",
+        "titulo": "Tablero eléctrico de alta tensión",
+        "descripcion": "Instalación y certificación eléctrica industrial."
+      },
+      {
+        "url": "https://drive.google.com/uc?export=view&id=ID_IMAGEN_4",
+        "titulo": "Montaje de estructura metálica",
+        "descripcion": "Construcción de estructuras para la industria minera."
+      },
+      {
+        "url": "https://drive.google.com/uc?export=view&id=ID_IMAGEN_5",
+        "titulo": "Termofusión HDPE",
+        "descripcion": "Unión hermética de tuberías de polietileno de alta densidad."
+      },
+      {
+        "url": "https://drive.google.com/uc?export=view&id=ID_IMAGEN_6",
+        "titulo": "Equipos en faena",
+        "descripcion": "Operación de maquinaria pesada en terreno."
+      }
+    ]
+  },
+  "cta": {
+    "titulo": "¿Listo para <span>trabajar</span> con nosotros?",
+    "descripcion": "Contáctanos y te ayudaremos a hacer realidad tu proyecto. Respuesta en menos de 24 horas.",
+    "boton": {
+      "texto": "Solicita una Cotización →",
+      "url": "https://wa.me/56964844180"
     }
-  ]
+  },
+  "footer": {
+    "contacto": "📲 +569 64844180 · ✉ Termingchile@protonmail.com · 📍 Colón 352-318, La Serena"
+  }
 }
