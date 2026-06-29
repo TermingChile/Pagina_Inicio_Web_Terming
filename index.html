@@ -340,7 +340,7 @@
       margin-top: 4px;
     }
 
-    /* ─── SECCIÓN: GALERÍA (tu implementación actual) ─── */
+    /* ─── SECCIÓN: GALERÍA ─── */
     .gallery-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -504,6 +504,11 @@
       padding: 60px 20px;
       color: #c0392b;
     }
+
+    .error .icon {
+      font-size: 40px;
+      margin-bottom: 12px;
+    }
   </style>
 </head>
 <body>
@@ -618,8 +623,12 @@
         console.error('Error cargando datos:', error);
         document.querySelector('#app').innerHTML = `
           <div class="error">
-            <p>⚠️ No se pudo cargar el contenido.</p>
+            <div class="icon">⚠️</div>
+            <p>No se pudo cargar el contenido.</p>
             <p style="font-size:14px;color:#8a9aaa;">${error.message}</p>
+            <p style="font-size:13px;color:#8a9aaa;margin-top:8px;">
+              Verifica que el archivo <strong>datos.json</strong> exista en el mismo directorio.
+            </p>
           </div>
         `;
       }
@@ -641,8 +650,6 @@
         el.href = btn.url;
         el.className = btn.primario ? 'btn-primary' : 'btn-secondary';
         el.textContent = btn.texto;
-        if (btn.primario) el.classList.add('btn-primary');
-        else el.classList.add('btn-secondary');
         heroButtons.appendChild(el);
       });
 
