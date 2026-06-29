@@ -71,41 +71,41 @@
     { "numero": "500+", "etiqueta": "m³ de estructuras montadas" },
     { "numero": "24/7", "etiqueta": "respuesta en terreno" }
   ],
-  "galeria": {
-    "descripcion": "Imágenes de nuestros trabajos en faena, actualizadas desde nuestro Drive.",
-    "imagenes": [
-      {
-        "url": "https://drive.google.com/file/d/1o2zt1F6xjLxmEmDrYDZObhUN-_cQN6SP/view?usp=sharing",
-        "titulo": "Instalación de piping en faena minera",
-        "descripcion": "Sistema de piping ASME B31.3 para transporte de fluidos."
-      },
-      {
-        "url": "https://drive.google.com/file/d/1lr2UGWfjVFTLtdxDGxRgfz5mFIqWLLd7/view?usp=drive_link",
-        "titulo": "Soldadura de tubería de acero",
-        "descripcion": "Unión soldada con estándares AWS."
-      },
-      {
-        "url": "https://drive.google.com/file/d/1REkaEqB7NnE6PYOJFBb-GsZ-wFVQ1Lbk/view?usp=sharing",
-        "titulo": "Tablero eléctrico de alta tensión",
-        "descripcion": "Instalación y certificación eléctrica industrial."
-      },
-      {
-        "url": "https://drive.google.com/file/d/1jKs4Ukms7gnQwlzbDNDMmpRyli2K1JcN/view?usp=sharing",
-        "titulo": "Montaje de estructura metálica",
-        "descripcion": "Construcción de estructuras para la industria minera."
-      },
-      {
-        "url": "https://drive.google.com/file/d/1OFovmyLo928nQSkp8hZWxOF_wG7feaR2/view?usp=sharing",
-        "titulo": "Termofusión HDPE",
-        "descripcion": "Unión hermética de tuberías de polietileno de alta densidad."
-      },
-      {
-        "url": "https://drive.google.com/file/d/1jZXiqEQyudzH2m_g461stWqde9Pk5nHl/view?usp=drive_link",
-        "titulo": "Equipos en faena",
-        "descripcion": "Operación de maquinaria pesada en terreno."
-      }
-    ]
-  },
+"galeria": {
+  "descripcion": "Imágenes de nuestros trabajos en faena, actualizadas desde nuestro Drive.",
+  "imagenes": [
+    {
+      "url": "https://drive.google.com/uc?export=view&id=1o2zt1F6xjLxmEmDrYDZObhUN-_cQN6SP",
+      "titulo": "Instalación de piping en faena minera",
+      "descripcion": "Sistema de piping ASME B31.3 para transporte de fluidos."
+    },
+    {
+      "url": "https://drive.google.com/uc?export=view&id=1lr2UGWfjVFTLtdxDGxRgfz5mFIqWLLd7",
+      "titulo": "Soldadura de tubería de acero",
+      "descripcion": "Unión soldada con estándares AWS."
+    },
+    {
+      "url": "https://drive.google.com/uc?export=view&id=1REkaEqB7NnE6PYOJFBb-GsZ-wFVQ1Lbk",
+      "titulo": "Tablero eléctrico de alta tensión",
+      "descripcion": "Instalación y certificación eléctrica industrial."
+    },
+    {
+      "url": "https://drive.google.com/uc?export=view&id=1jKs4Ukms7gnQwlzbDNDMmpRyli2K1JcN",
+      "titulo": "Montaje de estructura metálica",
+      "descripcion": "Construcción de estructuras para la industria minera."
+    },
+    {
+      "url": "https://drive.google.com/uc?export=view&id=1OFovmyLo928nQSkp8hZWxOF_wG7feaR2",
+      "titulo": "Termofusión HDPE",
+      "descripcion": "Unión hermética de tuberías de polietileno de alta densidad."
+    },
+    {
+      "url": "https://drive.google.com/uc?export=view&id=1jZXiqEQyudzH2m_g461stWqde9Pk5nHl",
+      "titulo": "Equipos en faena",
+      "descripcion": "Operación de maquinaria pesada en terreno."
+    }
+  ]
+},
   "cta": {
     "titulo": "¿Listo para <span>trabajar</span> con nosotros?",
     "descripcion": "Contáctanos y te ayudaremos a hacer realidad tu proyecto. Respuesta en menos de 24 horas.",
