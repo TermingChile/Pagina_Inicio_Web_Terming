@@ -2,7 +2,7 @@
   "hero": {
     "titulo": "Ingeniería y <span>Montajes Industriales</span> de Alta Precisión",
     "descripcion": "Somos el socio técnico en quien las grandes empresas confían para sus proyectos de piping, electricidad, soldadura HDPE y montaje estructural en la III y IV región.",
-    "imagen": "https://drive.google.com/uc?export=view&id=ID_IMAGEN_HERO",
+    "imagen": "https://drive.google.com/file/d/1u_KOp3ibft_i0UKGWk8s15z410b_nKAc/view?usp=drive_link",
     "botones": [
       {
         "texto": "Conoce Nuestros Servicios",
@@ -10,8 +10,8 @@
         "primario": true
       },
       {
-        "texto": "Descarga Nuestro RIOHS",
-        "url": "https://drive.google.com/file/d/10P0298kpgtc5gbnjSPSUHMWHUgUuXYy8/view?usp=drive_link",
+        "texto": "Descarga Nuestra Presentación Corporativa",
+        "url": "https://drive.google.com/file/d/1FiI4nfdLO1J4T5qy4IatPPODt_v9FJnn/view?usp=drive_link",
         "primario": false
       }
     ]
@@ -75,32 +75,32 @@
     "descripcion": "Imágenes de nuestros trabajos en faena, actualizadas desde nuestro Drive.",
     "imagenes": [
       {
-        "url": "https://drive.google.com/uc?export=view&id=ID_IMAGEN_1",
+        "url": "https://drive.google.com/file/d/1o2zt1F6xjLxmEmDrYDZObhUN-_cQN6SP/view?usp=sharing",
         "titulo": "Instalación de piping en faena minera",
         "descripcion": "Sistema de piping ASME B31.3 para transporte de fluidos."
       },
       {
-        "url": "https://drive.google.com/uc?export=view&id=ID_IMAGEN_2",
+        "url": "https://drive.google.com/file/d/1lr2UGWfjVFTLtdxDGxRgfz5mFIqWLLd7/view?usp=drive_link",
         "titulo": "Soldadura de tubería de acero",
         "descripcion": "Unión soldada con estándares AWS."
       },
       {
-        "url": "https://drive.google.com/uc?export=view&id=ID_IMAGEN_3",
+        "url": "https://drive.google.com/file/d/1REkaEqB7NnE6PYOJFBb-GsZ-wFVQ1Lbk/view?usp=sharing",
         "titulo": "Tablero eléctrico de alta tensión",
         "descripcion": "Instalación y certificación eléctrica industrial."
       },
       {
-        "url": "https://drive.google.com/uc?export=view&id=ID_IMAGEN_4",
+        "url": "https://drive.google.com/file/d/1jKs4Ukms7gnQwlzbDNDMmpRyli2K1JcN/view?usp=sharing",
         "titulo": "Montaje de estructura metálica",
         "descripcion": "Construcción de estructuras para la industria minera."
       },
       {
-        "url": "https://drive.google.com/uc?export=view&id=ID_IMAGEN_5",
+        "url": "https://drive.google.com/file/d/1OFovmyLo928nQSkp8hZWxOF_wG7feaR2/view?usp=sharing",
         "titulo": "Termofusión HDPE",
         "descripcion": "Unión hermética de tuberías de polietileno de alta densidad."
       },
       {
-        "url": "https://drive.google.com/uc?export=view&id=ID_IMAGEN_6",
+        "url": "https://drive.google.com/file/d/1jZXiqEQyudzH2m_g461stWqde9Pk5nHl/view?usp=drive_link",
         "titulo": "Equipos en faena",
         "descripcion": "Operación de maquinaria pesada en terreno."
       }
