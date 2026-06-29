@@ -1,0 +1,29 @@
+{
+  "categorias": [
+    {
+      "nombre": "Piping Industrial",
+      "imagenes": [
+        {
+          "titulo": "Instalación de tuberías en faena minera",
+          "descripcion": "Sistema de piping ASME B31.3 para transporte de fluidos",
+          "url": "#URL_IMAGEN_1"
+        },
+        {
+          "titulo": "Soldadura de tubería de acero",
+          "descripcion": "Unión soldada con estándares AWS",
+          "url": "#URL_IMAGEN_2"
+        }
+      ]
+    },
+    {
+      "nombre": "Electricidad Industrial",
+      "imagenes": [
+        {
+          "titulo": "Tablero eléctrico de alta tensión",
+          "descripcion": "Instalación y certificación eléctrica",
+          "url": "#URL_IMAGEN_3"
+        }
+      ]
+    }
+  ]
+}
